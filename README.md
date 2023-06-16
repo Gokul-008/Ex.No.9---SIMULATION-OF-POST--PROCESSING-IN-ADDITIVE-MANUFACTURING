@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/Yamunaasri/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/115707860/3dde0613-0d0a-4cd6-9798-3ad7ad8ddde6)
+![image](https://github.com/Yamunaasri/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/115707860/a78adc95-ddf1-4baf-bfc0-bcb4a4e6149d)
+![image](https://github.com/Yamunaasri/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/115707860/e6a0cf51-323d-4cf2-97a0-e0d77ea5d90a)
 
-### Name:
-### Register Number:
+### Name: T S Yamunaasri
+### Register Number: 212222240117
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
