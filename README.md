@@ -50,8 +50,8 @@
 ![image](https://github.com/Yamunaasri/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/115707860/a78adc95-ddf1-4baf-bfc0-bcb4a4e6149d)
 ![image](https://github.com/Yamunaasri/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/115707860/e6a0cf51-323d-4cf2-97a0-e0d77ea5d90a)
 
-### Name: T S Yamunaasri
-### Register Number: 212222240117
+### Name: GOKUL.M
+### Register Number: 212222230037
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
